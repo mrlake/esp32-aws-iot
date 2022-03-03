@@ -1,4 +1,4 @@
-# ESP32 AWS IoT example using Arduino SDK
+# Sams ESP32 AWS IoT example using Arduino SDK
 
 ![Build Status](https://github.com/jandelgado/esp32-aws-iot/workflows/run%20tests/badge.svg)
 
